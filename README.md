@@ -1,4 +1,5 @@
 Tableau-Homework---Citi-Bike-Analytics
+
 I created visualizations based on starting locations, gender, subscribers vs customers, and age statistics within the timeframe of August 2019.
 Summary of key findings can be found below:
     - 81% of August 2019 riders are annual subscribers.
